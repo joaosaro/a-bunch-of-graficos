@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Sobre
-permalink: /about/
+layout: post
+title:  "Primeiro post"
+date:   2019-08-27 22:11:20 +0100
+categories: blog
 ---
 
 Complicado apresentar uma coisa que ainda não sei o que vai ser. 
