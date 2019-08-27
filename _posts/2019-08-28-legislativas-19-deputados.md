@@ -51,3 +51,9 @@ No dia das eleições, os noticiários mostrarão os resultados com percentagens
 Não estando a fazer apologia do voto útil, acredito que seria mais saudável a criação de círculos com um número de deputados aceitável. 
 
 Votar em Portalegre não é como votar em Lisboa.
+
+#### Dados
+
+* <a href="https://docs.google.com/spreadsheets/d/14s32E8HIv9ODDKBgSB3A_zx3N5Zm9zjhHhQ747kAAgI/edit?usp=sharing" target="_blank">Tratamento de dados</a>
+* <a href="http://www.cne.pt/sites/default/files/dl/2019_ar_mapa_deputados.pdf" target="_blank">Mapa deputados 2019</a>
+* <a href="http://www.cne.pt/sites/default/files/dl/ar-2015_mapa_deputados_dr.pdf" target="_blank">Mapa deputados 2015</a>
