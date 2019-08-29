@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Limiar de voto por distrito | Legislativas 2019"
+title:  "Limiar de eleição por distrito | Legislativas 2019"
 date:   2019-08-29 22:30:20 +0100
 categories: politica lesgilativas-2019
 ---
