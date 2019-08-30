@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guia de voto na Geringonça | Legislativas 2019"
-date:   2019-08-30 00:21:20 +0100
+date:   2019-08-30 01:21:20 +0100
 categories: politica legislativas-2019
 ---
 
