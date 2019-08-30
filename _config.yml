@@ -16,7 +16,7 @@
 title: A bunch of gráficos
 email: joaovlsaro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Um blog para experimentar ideias de tratamento visual de dados.
+  Um rascunho para experimentar ideias de tratamento visual de dados. Talvez vire blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abunchofgraficos.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joaosaro
